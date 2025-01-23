@@ -1,5 +1,59 @@
 [ 
   {
+    "title": "HomeSpot",
+    "imageSrc": "./assets/homespot.png",
+    "liveUrl": "https://homespot.com.ar",
+    "githubUrl": "https://homespot.com.ar",
+    "category": "Web"
+  },{
+    "title": "JPR - Resumes",
+    "imageSrc": "./assets/jpr_resumes.png",
+    "liveUrl": "https://jpromano.net/resumes",
+    "githubUrl": "https://github.com/jpromanonet-website/website_resumes",
+    "category": "Web"
+  },{
+    "title": "JPR - Podcasts",
+    "imageSrc": "./assets/jpr_podcasts.png",
+    "liveUrl": "https://jpromano.net/podcasts",
+    "githubUrl": "https://github.com/jpromanonet-website/website_podcasts",
+    "category": "Web"
+  },{
+    "title": "JPR - Open Source",
+    "imageSrc": "./assets/jpr_opensource.png",
+    "liveUrl": "https://jpromano.net/opensource",
+    "githubUrl": "https://github.com/jpromanonet-website/website_opensource",
+    "category": "Web"
+  },{
+    "title": "Juan P. Romano - News",
+    "imageSrc": "./assets/jpr_news.png",
+    "liveUrl": "https://jpromano.net/news",
+    "githubUrl": "https://github.com/jpromanonet-website/website_news",
+    "category": "Web"
+  },{
+    "title": "JPR - Ventures",
+    "imageSrc": "./assets/jpr_ventures.png",
+    "liveUrl": "https://jpromano.net/ventures",
+    "githubUrl": "https://github.com/jpromanonet-website/website_ventures",
+    "category": "Web"
+  },{
+    "title": "Juan P. Romano - Writing",
+    "imageSrc": "./assets/jpr_writing.png",
+    "liveUrl": "https://jpromano.net/writing",
+    "githubUrl": "https://github.com/jpromanonet-website/website_writing",
+    "category": "Web"
+  },{
+    "title": "Juan P. Romano - About",
+    "imageSrc": "./assets/jpromanonet_about.png",
+    "liveUrl": "https://jpromano.net/about",
+    "githubUrl": "https://github.com/jpromanonet-website/website_about",
+    "category": "Web"
+  },{
+    "title": "Ututo Linux - Oficial",
+    "imageSrc": "./assets/ututo_oficial.png",
+    "liveUrl": "https://ututo.ar",
+    "githubUrl": "https://github.com/ututolinux",
+    "category": "ututo"
+  },{
     "title": "Ututo Linux",
     "imageSrc": "./assets/ututo.png",
     "liveUrl": "https://ututo.vercel.app",
