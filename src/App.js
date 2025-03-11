@@ -63,7 +63,7 @@ function App() {
             className={classes.littleSpace}
             color="primary"
           >
-            Projects I done (click <a href="https://jpromano.net/about">here</a> to return home)
+            Projects I done (click <a href="https://jpromanonet.vercel.app">here</a> to return home)
           </Typography>
           <Typography
             variant="h5"
