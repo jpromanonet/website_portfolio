@@ -32,7 +32,7 @@
   },{
     "title": "JPR - Ventures",
     "imageSrc": "./assets/jpr_ventures.png",
-    "liveUrl": "https://jpromano.net/ventures",
+    "liveUrl": "https://ventures-jpromanonet.vercel.app",
     "githubUrl": "https://github.com/jpromanonet-website/website_ventures",
     "category": "Web"
   },{
