@@ -1,5 +1,11 @@
 [ 
   {
+    "title": "ElectroFer",
+    "imageSrc": "./assets/electrofer.png",
+    "liveUrl": "https://electrofersanmiguel.com.ar",
+    "githubUrl": "https://electrofersanmiguel.com.ar",
+    "category": "Web"
+  },{
     "title": "HomeSpot",
     "imageSrc": "./assets/homespot.png",
     "liveUrl": "https://homespot.com.ar",
