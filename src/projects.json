@@ -8,25 +8,25 @@
   },{
     "title": "JPR - Resumes",
     "imageSrc": "./assets/jpr_resumes.png",
-    "liveUrl": "https://jpromano.net/resumes",
+    "liveUrl": "https://resumes-jpromanonet.vercel.app",
     "githubUrl": "https://github.com/jpromanonet-website/website_resumes",
     "category": "Web"
   },{
     "title": "JPR - Podcasts",
     "imageSrc": "./assets/jpr_podcasts.png",
-    "liveUrl": "https://jpromano.net/podcasts",
+    "liveUrl": "https://podcasts-jpromanonet.vercel.app",
     "githubUrl": "https://github.com/jpromanonet-website/website_podcasts",
     "category": "Web"
   },{
     "title": "JPR - Open Source",
     "imageSrc": "./assets/jpr_opensource.png",
-    "liveUrl": "https://jpromano.net/opensource",
+    "liveUrl": "https://opensource-jpromanonet.vercel.app",
     "githubUrl": "https://github.com/jpromanonet-website/website_opensource",
     "category": "Web"
   },{
     "title": "Juan P. Romano - News",
     "imageSrc": "./assets/jpr_news.png",
-    "liveUrl": "https://jpromano.net/news",
+    "liveUrl": "https://news-jpromanonet.vercel.app",
     "githubUrl": "https://github.com/jpromanonet-website/website_news",
     "category": "Web"
   },{
@@ -38,13 +38,13 @@
   },{
     "title": "Juan P. Romano - Writing",
     "imageSrc": "./assets/jpr_writing.png",
-    "liveUrl": "https://jpromano.net/writing",
+    "liveUrl": "https://writing-jpromanonet.vercel.app",
     "githubUrl": "https://github.com/jpromanonet-website/website_writing",
     "category": "Web"
   },{
     "title": "Juan P. Romano - About",
     "imageSrc": "./assets/jpromanonet_about.png",
-    "liveUrl": "https://jpromano.net/about",
+    "liveUrl": "https://jpromanonet.vercel.app",
     "githubUrl": "https://github.com/jpromanonet-website/website_about",
     "category": "Web"
   },{
